@@ -11,6 +11,10 @@ This integration allows you to alert xMatters from AppOptics.
 
 ---------
 
+An updated version of this integration is available. You can install the new version right from the Workflow Templates directory within your xMatters instance. [Learn more](http://help.xmatters.com/integrations/#cshid=AppOptics).
+
+---------
+
 # Files
 
 * [AppOptics.zip](AppOptics.zip) - Workflow zip file with the step and example flow
